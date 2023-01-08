@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cecilia but feel free to call me Ceci :-)
 =================================================================================================================================================================
 
-I am a psych graduate with a love for tech and learning to code.
+I am a psych graduate with a love for tech and currently learning to code.
 ----------------------------------------------------------------
 
 My background is in behavioural therapies, special needs and healthcare administration. I have always
