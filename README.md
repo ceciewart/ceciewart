@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a psych graduate with a love for tech and currently learning to code.
 ----------------------------------------------------------------
 
-My background is in behavioural therapies, special needs and healthcare administration. I have always
+My background is in behavioural therapies, special needs and healthcare administration. https://ceciliaewart.co.uk/
 
 *   🌍  I'm based in Manchester but I'm originally from Brazil
 *   ✉️  You can contact me at [ceciliaewart@gmail.com](mailto:ceciliaewart@gmail.com)
