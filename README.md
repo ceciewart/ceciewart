@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cecilia but you can also call me Ceci :-)
 =================================================================================================================================================================
 
-I am a psych graduate with a love for tech and currently learning to code.
+I am a psych graduate who switched careers to tech. You may find here some of the projects I dabbed in when learning to code. 
 ----------------------------------------------------------------
-
-My background is in behavioural therapies, special needs and healthcare administration. https://ceciliaewart.co.uk/
 
 *   🌍  I'm based in Manchester but I'm originally from Brazil
 *   ✉️  You can contact me at [ceciliaewart@gmail.com](mailto:ceciliaewart@gmail.com)
-*   🧠  Completed a Software Development Bootcamp with Just IT
+*   🧠  Completed a Software Development Bootcamp with Just IT, then a Technology Graduate Scheme in Banking and a Higher Cert in Digital Tech Solutions
 *   ⚡  Lover of puzzles, boardgames and cooking
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
