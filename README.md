@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ceci :-)
 =================================================================================================================================================================
 
-I am a psych graduate who switched careers to tech. I am currently a UX Researcher, working in ethical banking in Manchester. You may find here some of the projects I dabbed in when learning to code. I have since learned a hell of a lot more so this may be a little bit outdated!
+I am a psych graduate who switched careers to tech. I am currently a UX Researcher, working in ethical banking in Manchester. 
 ----------------------------------------------------------------
 
 *   🌍  I'm originally from Brazil
 *   🧠  Completed a Software Development Bootcamp with Just IT, then a Technology Graduate Scheme in Banking and a Higher Certificate in Digital Tech Solutions
 *   ⚡  Lover of puzzles, boardgames & cats
+*   You may find here some of the projects I dabbed in when learning to code. I have since learned a hell of a lot more so this may be a little bit outdated!
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
